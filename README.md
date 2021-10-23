@@ -3,6 +3,11 @@
 # Threads Challenge N1 Activity (EC6)
 This N1 activity of the Programming Language subject, and it will compose the N1 grade for the 2 Bim.
 
+## How it works:
+
+- 'Ao usuário "cadastrar um produto", a thread de cadastrado de produto é iniciada, e dentro do método run(), é instanciada a classe Log, na qual é utilizado o padrão Singleton (Seguindo a lógica de que não precisa existir mais de uma instância da classe Log), a classe Log possui o método LogCadProduto(), o qual geraria um Log de produto'
+
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
