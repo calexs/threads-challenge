@@ -1,10 +1,10 @@
 [![Badge](https://img.shields.io/badge/jdk-v11.0.11-yellowgreen)](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) [![Badge](https://img.shields.io/badge/java-v1.8.0__301-red)](https://blogs.oracle.com/ebstech/post/jre-180-301-certified-with-ebs-releases-122-and-121)
 
 ### Disclaimer ⚠️
-> There's a second version of this challenge avaiable at the threads-challenge-v2 branch.
+> There's a second version of this challenge available at the threads-challenge-v2 branch.
 
 # Threads Challenge N1 Activity (EC6)
-This N1 activity of the Programming Language subject, and it will compose the N1 grade for the 2 Bim.
+This is the N1 activity of the Programming Language subject, and it will compose the N1 grade for the 2 Bim.
 
 ## Folder Structure
 
